@@ -1,0 +1,196 @@
+* {
+box-sizing: border-box;
+font-family: constantia;
+}
+html, body {
+margin: 0;
+padding: 0.5%;
+}
+.headings {
+background-image: url("CODE/red.png");
+background-blend-mode: multiply;
+padding-bottom: 50px;
+}
+.headings ul {
+margin: 0;
+}
+.headings li {
+display: inline;
+}
+.headings a {
+padding: .4em;
+text-decoration: none;
+color: white;
+}
+.headings ul {
+text-align: center;
+font-size: 1.1em;
+font-weight: bold;
+border-bottom: 1px solid white;
+}
+.headings a:hover {
+background-color: rgba(255, 255, 255, .4);
+}
+.topic {
+text-align: center;
+font-size: 3em;
+font-family: cooper std;
+color: blue;
+margin: 2%;
+}
+.list li {
+font-weight: bold;
+font-size: 22px;
+color: green;
+margin-left: 0;
+}
+.logo {
+display: block;
+text-align: center;
+font-size: 6em;
+color: white;
+font-family: eras itc;
+margin: 1%;
+}
+.footer {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+background-color: green;
+color: white;
+padding: .25em, 0;
+align-items: end;
+}
+.footest {
+margin-bottom: 0;
+margin-top: 3em;
+font-size: 2.5em;
+font-family: cooper std;
+}
+.footer img {
+text-align: end;
+}
+.im {
+margin: 4%;
+}
+.container {
+margin-left: 1%;
+margin-right: 1%;
+max-width: 14000px;
+}
+.imm {
+height: 22em;
+width: 23em;
+}
+.products {
+margin: 30px;
+}
+
+.name {
+display: block;
+width: 100%;
+text-align: center;
+font-weight: bold;
+font-size: 1.5em;
+color: green;
+margin-bottom: 15px;
+margin-top: 20px;
+}
+.products {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.all {
+margin: 3%
+}
+.cute {
+height: 19em;
+width: 25em;
+padding-bottom: 15px;
+}
+.work li {
+font-weight: bold;
+color: green;
+padding-bottom: 5px;
+}
+.nams {
+display: flex;
+padding-bottom: 35px;
+align-items: center;
+font-size: 1.2em;
+font-weight: bold;
+color: black;
+}
+.oga {
+font-size: 3em;
+font-weight: bold;
+color: green;
+text-align: center;
+}
+.press {
+display: block;
+margin: 40px auto 80px auto;
+background-color: green;
+vertical-align: center;
+padding: .55em;
+font-weight: bold;
+color: white;
+font-size: 2.5em;
+border-radius: 7px;
+border: none;
+cursor: pointer;
+}
+.cap {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.ogas {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.press a {
+text-decoration: none;
+color: white;
+}
+.press:hover {
+background-color: #96C949;
+}
+.smart {
+padding-bottom: 30px;
+}
+.nam {
+width: 100%;
+font-family: cambria math;
+font-weight: bold;
+font-size: 1.3em;
+color: green;
+margin-bottom: 15px;
+margin-top: 20px;
+}
+.commune {
+display: block;
+font-size: 1.5em;
+font-family: arial black;
+color: green;
+}
+.inserts {
+display: block;
+font-size: 1.2em;
+font-family: cambria math;
+font-weight: bold;
+color: black;
+}
+.last {
+padding-bottom: 12px;
+}
+.last {
+margin: 20px;
+}
+.rest {
+height: 20em;
+width: 30em;
+padding-bottom: 20px;
+}
